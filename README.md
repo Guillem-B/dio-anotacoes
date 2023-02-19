@@ -1,3 +1,3 @@
-# Repositório do Desafio de Projeto
+# Project Challenge Repository
 
-O Desafio de Projeto consiste em criar um repositório público para compartilhar no GitHub.
+The Project Challenge consists of creating our first public repository on GitHub.
