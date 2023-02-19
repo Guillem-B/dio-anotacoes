@@ -1,0 +1,6 @@
+*História Java
+Criada em 90 pela Sun, orientada a objetos, adquirida em 2008 pela Oracle.
+
+*Caracteristica
+Interpretada
+
