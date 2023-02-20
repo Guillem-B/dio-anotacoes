@@ -4,3 +4,8 @@ Criada em 90 pela Sun, orientada a objetos, adquirida em 2008 pela Oracle.
 *Caracteristica
 Interpretada
 
+8 Tipos primitivos (não são objetos)
+int / byte / short / long / float / double / boolean e char
+
+long não pode ser para numeros que possam iniciar com 0, CEP ou CPF por exemplo
+
