@@ -49,8 +49,6 @@ Com auxiliares:
 > boolean recebeAuxilio =
 > (salarioBaixo) && (muitosDependentes)
 
-
-
 ###### Operações bitwise e shift
 
 Não são operadores lógicos, não confundir
@@ -159,4 +157,6 @@ Exemplo Switch:
   
   * Utilizar as opções de else if ou switch para não deixar o if ficar muito grande e de difícil leitura
 
+---
 
+Operadores aritméticos e relacionais podem ser utilizados para montar expressões com resultados booleanos.

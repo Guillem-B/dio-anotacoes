@@ -11,5 +11,3 @@
 * Estáticos = dentro de classes
 
 * Instância  = dentro de classes
-
-
