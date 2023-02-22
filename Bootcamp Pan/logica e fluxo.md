@@ -1,3 +1,39 @@
+#### Operadores Relacionais
+
+Símbolos especiais para realizar comparações entre determinados operandos e logo retornar um resultado.
+
+Nem todo operador relacional pode ser usado em qualquer tipo de dado, exemplo de erro: true > false.
+
+###### Tipos
+
+- Similaridade
+  
+  - Igual ( = )
+    
+    - Determina se os operandos são iguais
+  
+  - Diferente ( != )
+    
+    - Determina se os operandos são diferentes um do outro
+
+- Tamanho
+  
+  - Maior ( > )
+    
+    - Determina se o primeiro operando tem maior grandeza que o segundo
+  
+  - Maior igual ( >= )
+    
+    - Determina se o primeiro operando tem maior ou mesma grandeza que o segundo
+  
+  - Menor ( < )
+    
+    - Determina se o primeiro operando tem menor grandeza que o segundo
+  
+  - Menor igual ( <= )
+    
+    - Determina se o primeiro operando tem menor ou mesma grandeza que o segundo
+
 #### Operadores Lógicos
 
 Símbolos especiais para realizar comparações entre determinados operandos e logo retornar um resultado.
