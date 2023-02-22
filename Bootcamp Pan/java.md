@@ -1,0 +1,89 @@
+##### História Java
+
+Criada em 90 pela Sun, orientada a objetos, adquirida em 2008 pela Oracle.
+
+##### Caracteristica
+
+Interpretada
+
+Nome do arquivo Java deve ser o mesmo da Classe
+Nomenclatura dessa forma: MinhaClasse
+Todas as primeiras letras em maiúscula
+
+##### Variável
+
+Regra regal: camelCase, iniciando com minúscula e próximas palavras em maiúscula
+Constantes: valor imutável, utiliza a palavra "final", é escrito sempre em maiúsculas
+
+Permitido: letras, 0 a 9, "$" e "_"
+Iniciando com letras minúsculas ou \$ ou underline
+Não pode conter espaços
+Não pode usar palavras reservadas
+Nome deve ser único.
+
+##### Métodos
+
+regras semelhantes à metodos, mas nomeclatura é o objetivo do método no infinitivo (somar, calcular, imprimir, fazerXYZ)
+
+---
+
+##### Organizando arquivos
+
+Empresa HyperTech
+Comercial = .com
+Organizacional = .org
+
+Nome do pacote = com.hypertech.projeto
+Pacote de modelos = com.hypertech.projeto.modelos
+Pacote de utilidade = com.hypertech.projeto.utils
+
+Outro exemplo
+Estudos ao longo do tempo
+edu.guilherme.primeirasemana
+edu.guilherme.segundasemana
+
+---
+
+##### Java Beans
+
+Variáveis devem ser claras, sem abreviações ou definições sem sentido
+Singular exceto ao se referir à array ou coleção
+Sempre um único idioma
+
+Métodos nomeados como verbos, iniciando minúsculo e utilizando camelCase
+
+***
+
+##### Outros Detalhes
+
+8 Tipos primitivos (não são objetos)
+int / byte / short / long / float / double / boolean e char
+
+Long não pode ser para numeros que possam iniciar com 0, CEP ou CPF por exemplo
+
+Long precisa de L ao final da atribuição, Float precisa de F.
+
+---
+
+##### Operadores
+
+Aritméticos, atribuição... (já possuo conhecimento)
+
+Incremento / Decremento
+Quando utilizado no lado esquerdo, primeiro incrementa e depois utiliza a variável
+Quando usa no lado direito, primeiro utiliza a variável e depois incrementa.
+
+###### Ternário
+
+Basicamente um if de uma linha
+<condicional> ? <condição true> : <condição false>
+
+Relacionais & Lógicos (já possuo conhecimento)
+Comparação de objetos com .equals()
+
+***
+
+##### Métodos
+
+Sempre definidos dentro de uma classe
+throws Exception para indicar que pode disparar uma exceção

@@ -1,0 +1,87 @@
+### Git
+
+Controle de versionamento de código destribuido - 2005
+
+1. Controle de versão
+2. Armazenamento em nuvem
+3. Trabalho em equipe
+4. Melhorar o seu código
+5. Reconhecimento
+
+##### Comandos Básicos
+
+Diretórios -> dir no Windos ou ls no Linux
+Mudar diretorio -> cd
+Voltar nivel diretorio -> cd ..
+Limpar tela -> cls Windows / Linux clear
+Autocompletar -> Tab
+Criar pasta -> mkdir
+Criar arquivo: redireciona fluxo com ">"
+Deletar del -> deleta apenas arquivos
+Deletar rmdir -> remove diretório, pasta e arquivos.
+
+##### Como funciona?
+
+- SHA 1
+  
+  - Algoritmo de encriptação criado pela NSA
+    Gera conjunto de caracteres de 40 digitos
+
+- Objetos fundamentais
+  
+  - Blobs
+    
+    - Armazena metadados do Git junto ao conteudo
+  
+  - Trees
+    
+    - Armazenam blobs, nome dos arquivos dos blobs
+      apontam tanto pra blob quanto pra outras trees
+  
+  - Commits
+    
+    - Aponta para arvore, parente (ultimo commit), autor, mensagem e data
+
+- Sistema distribuido
+- Segurança
+
+---
+
+##### Primeiros comandos
+
+* git init (iniciar repositorio)
+
+* git add (mover arquivos)
+
+* git commmit
+
+###### Git Init
+
+Iniclializa um repositório no Git dentro do Diretório do Windows.
+
+Unmodified - Arquivo ainda não modificado
+Modified - Arquivo modificado
+Staged - Arquivos que estão preparados para serem agrupados em um commit
+
+Depois de um commit os arquivos viram Unmodified novamente.
+
+###### Git add
+
+Move os arquivos para Staged
+
+##### Ambiente de desenvolvimento
+
+Diretório de trabalho | Staging | Repositório Local
+
+
+Arquivos só irão para o repositório local através do Commit e deste repositório são enviados para o repositório remoto
+
+---
+
+###### GitHub - Conflitos
+
+Quando duas pessoas editam o mesmo arquivo, uma delas faz o commit e você segue editando (merge conflict) o GitHub lhe avisa que primeiro antes de comitar vc precisa baixar o arquivo modificado.
+
+
+
+

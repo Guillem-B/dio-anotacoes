@@ -1,0 +1,151 @@
+#### Valores
+
+1. Individuos e interação mais que processo e ferramenta
+2. software em funcionamento mais que documentação abrangente
+3. Colaboração com o cliente mais que contratos
+4. Responder a mudança mais que seguir um plano.
+
+#### Princípios (principais)
+
+1. Prioridade é satisfazer o cliente com entrega contínua
+2. Adequar-se a mudanças
+3. Conversa face a face.
+4. Simplicidade, focar no essencial
+5. Refletir sobre como ser mais eficaz, refinar e ajustar.
+
+#### Caracteristicas
+
+* Alinha com cliente
+
+* Auto-organizado e responsável
+
+* Multidisciplinar
+
+* Entrega valor continuamente
+
+* Sempre aprendendo
+
+* Melhoria contínua
+
+* Métricas e metas claras
+
+* Unido
+
+#### Agilidade na tecnologia
+
+* Validar inovação em etapas pequenas
+
+* Entregas rápidas com valores
+
+* Eficiência
+
+* (VUCA) = Volatil, Incerto, Complexo, Ambiguo
+
+---
+
+Processo - recorrente e continuo, replicavel, repetitivo e regular.
+
+Projeto - Esforço temporário, resultado exclusivo, inicio meio e fim.
+
+---
+
+Cascata 
+
+* Analise ->
+  
+  * Projeto ->
+    
+    * Implementação ->
+      
+      * Teste -> 
+        
+        * Entrega/Manutenção
+
+Scrum -> Iterativo (sprints) e incremental com valor entregue continuado.
+
+Castaca -> Valor entregue no final.
+
+---
+
+#### Gestao Agil
+
+##### Scrum
+
+Gera valor por meio de solução adaptativa para problema complexo
+Base no empirismo(observação) e Lean Thinking (melhoria continua e reduzindo desperdicio)
+
+1. Transparência
+    Qualquer processo pode ser observado por qualquer pessoa. Fluxo de informação facil e transparente, cultura aberta
+2. Inspeção
+    Pensar e aplicar uma visão crítica do que está acontecendo. Detectar problemas, olhar e medir progresso, feedback de clientes e stakeholders, inspeção e aprovação de entregas.
+3. Adaptação
+    Através dos itens anteriores, a equipe adapta o processo e fazem melhorias no trabalho realizado.
+
+Framework incompleto, apenas definindo as partes necessárias, orientando os relacionamentos e interações.
+
+##### XP
+
+Método anos 90
+Interação próxima com o cliente, testagem constante e ciclo de desenvolvimento curto.
+
+Planeja -> Faz -> Testa/Mensura -> Melhora -> Planeja...
+
+Ciclos
+Cermionias (reunioes, momentos) com clientes
+Testes
+Programação em pares
+Feedback
+Aproximação com o cliente
+Flexibilidade
+
+##### Kanban
+
+Método simples pra deifnir, gerenciar e melhorar serviços
+Toyota desenvolveu na década de 40.
+Utilizado em diferentes áreas como Gestão de Tarefas
+
+Quadro
+To do | Doing | Done
+
+##### OKR
+
+Objectives
+Key
+Results
+
+Criado pelo Andrew Grove, ex CEO Intel
+Objetivo de simplificar os objetivos estratégiso de uma empresa.
+
+Objetivos
+Descrição qualitativas que deverão serseguidas
+
+* Claro
+
+* Inspirador
+
+* Desafiador
+
+* Alinhado com a missão do negócio.
+
+Resultados Chaves
+Metas
+
+* Baseado em indicadores-chaves de desempenhos
+
+* Quantitativas
+
+* SMART = Específica, Mensurável, Atingível, Relevante e Temporal.
+
+Beneficios
+
+* Agilidade
+
+* Cooperação
+
+* Transparência
+
+* Monitoramento Contínuo
+
+Ferramentas
+Trello / Notion / Miro / Monday / EasyRetro / Jira
+Clickup / Pipefy / Asana, etc...
